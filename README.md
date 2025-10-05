@@ -91,7 +91,6 @@ medical-intent-classifier/
 ├── medical_intent_classifier.py   # Main script
 ├── README.md                       # Documentation
 ├── requirements.txt                # Dependencies
-├── saved_model/                    # Trained model
 ├── confusion_matrix.png            # Results visualization
 └── training_history.png            # Training loss plot
 ```
